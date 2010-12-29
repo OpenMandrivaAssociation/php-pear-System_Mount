@@ -64,6 +64,6 @@ fi
 
 %files
 %defattr(-,root,root)
-%doc %{upstream_name}-%{version}/example.php
+%doc %{upstream_name}-%{version}/docs/example.php
 %{_datadir}/pear/%{_class}
 %{_datadir}/pear/packages/%{upstream_name}.xml
