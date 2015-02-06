@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.1
-Release:	4
+Release:	5
 Summary:	Mount and unmount devices in fstab
 License:	PHP License
 Group:		Development/PHP
