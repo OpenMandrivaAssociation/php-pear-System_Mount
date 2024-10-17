@@ -8,7 +8,7 @@ Release:	5
 Summary:	Mount and unmount devices in fstab
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/System_Mount/
+URL:		https://pear.php.net/package/System_Mount/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
